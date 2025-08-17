@@ -1,0 +1,6 @@
+Key Insights - Task 8: Sales Dashboard
+
+1. West region recorded the highest sales overall compared to other regions.
+2. Technology category contributed the largest share of total revenue.
+3. Sales peaked in December, showing clear seasonality.
+4. Profit margins were highest in Technology, while Furniture lagged despite decent sales.
